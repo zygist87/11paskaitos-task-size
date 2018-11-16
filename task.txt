@@ -1,0 +1,11 @@
+programoje daug task yra pridaryta
+
+
+
+secret number game. Using prompt ask a number and check it, if that number is your secret number. Program should print if number is higher or lower.
+
+
+
+
+
+
